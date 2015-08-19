@@ -1,0 +1,5 @@
+This is my first document.
+
+This is the first edit that I made. 
+
+This is a typical change a contributor might make.
